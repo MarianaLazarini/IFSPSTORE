@@ -1,0 +1,37 @@
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.deps.json
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.AssemblyReference.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfo.cs
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\refint\IFSPStore.Domain.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\ref\IFSPStore.Domain.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.sourcelink.json
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.deps.json
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.AssemblyReference.cache
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfo.cs
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\refint\IFSPStore.Domain.dll
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\maris\Downloads\IFSPStore-master (1)\IFSPStore-master\IFSPStore.Domain\obj\Debug\net8.0\ref\IFSPStore.Domain.dll
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.deps.json
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.AssemblyReference.cache
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfo.cs
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\refint\IFSPStore.Domain.dll
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\maris\OneDrive\Documentos\IFSPStore Mariana\IFSPStore.Domain\obj\Debug\net8.0\ref\IFSPStore.Domain.dll
