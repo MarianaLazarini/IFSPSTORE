@@ -1,0 +1,17 @@
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Service.deps.json
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Service.dll
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Service.pdb
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Repository.dll
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\bin\Debug\net8.0\IFSPStore.Repository.pdb
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.csproj.AssemblyReference.cache
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.AssemblyInfoInputs.cache
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.AssemblyInfo.cs
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStor.E2646254.Up2Date
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.dll
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\refint\IFSPStore.Service.dll
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\IFSPStore.Service.pdb
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Service\obj\Debug\net8.0\ref\IFSPStore.Service.dll

@@ -1,0 +1,6 @@
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\bin\Debug\net8.0\CoverletSourceRootsMapping_IFSPStore.Teste
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\obj\Debug\net8.0\IFSPStore.Teste.csproj.AssemblyReference.cache
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\obj\Debug\net8.0\IFSPStore.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\obj\Debug\net8.0\IFSPStore.Teste.AssemblyInfoInputs.cache
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\obj\Debug\net8.0\IFSPStore.Teste.AssemblyInfo.cs
+C:\Users\maris\OneDrive\Documentos\ENGENHARIA DA COMPUTAÇÃO\IFSPStore\IFSPStore.Teste\obj\Debug\net8.0\IFSPStore.Teste.csproj.CoreCompileInputs.cache
