@@ -39,7 +39,7 @@ namespace IFSPStory.Teste
                 var port = "3306";
                 var database = "IFSPStore";
                 var username = "root";
-                var password = "Mari040304*";
+                var password = "**********";
                 var strCon = $"server={server};Port ={port};Database ={database};" +
                     $"Uid={username};Pwd={password}";
                 if (!optionsBuilder.IsConfigured)
@@ -99,7 +99,7 @@ namespace IFSPStory.Teste
                 {
                     Nome = "Mariana",
                     Cidade = cidade,
-                    Documento = "476.900.818-00",
+                    Documento = "***.***.***-**",
                     Endereco = "Rua Pedro Cavalo, 709",
                     Bairro = "Portal da Pérola"
                 };
@@ -110,7 +110,7 @@ namespace IFSPStory.Teste
                 {
                     Nome = "Angela",
                     Cidade = cidade,
-                    Documento = "426.653.788-60",
+                    Documento = "***.***.***-**",
                     Endereco = "Rua Islândia, 327",
                     Bairro = "Jardim São Paulo"
                 };
