@@ -26,7 +26,7 @@ namespace IFSPStore.Test
                 var port = "3306";
                 var database = "IFSPStore";
                 var username = "root";
-                var password = "Mari040304*";
+                var password = "**********";
                 var strCon = $"Server={server}; Port={port}; Database={database};" +
                              $"Uid={username}; Pwd={password}";
                 options.UseMySql(strCon, ServerVersion.AutoDetect(strCon), opt =>
@@ -107,7 +107,7 @@ namespace IFSPStore.Test
                 Nome = "Mariana",
                 Endereco = "Rua Islândia",
                 Bairro = "Jardim São Paulo",
-                Documento = "00000000000",
+                Documento = "***.***.***-**",
                 Cidade = cidade
             };
 
@@ -161,7 +161,7 @@ namespace IFSPStore.Test
                 Nome = "Mariana",
                 Login = "Mari",
                 Email = "marisolazarini@gmail.com",
-                Senha = "Mari040304*",
+                Senha = "**********",
                 DataCadastro = DateTime.Now,
                 DataLogin = DateTime.Now,
                 Ativo = false
