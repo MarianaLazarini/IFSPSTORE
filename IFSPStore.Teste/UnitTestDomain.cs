@@ -23,14 +23,14 @@ namespace IFSPStory.Test
         public void TestCliente()
         {
             Cidade cidade = new Cidade(1, "Birigui", "SP");
-            Cliente cliente = new Cliente(1, "Angela", "Rua Islândia 327", "Jardim", "123", cidade);
+            Cliente cliente = new Cliente(1, "Angela", "Rua ", "Jardim", " ", cidade);
 
             Debug.WriteLine(JsonSerializer.Serialize(cliente));
 
             Assert.AreEqual(cliente.Nome, "Angela");
-            Assert.AreEqual(cliente.Endereco, "Rua Islândia 327");
+            Assert.AreEqual(cliente.Endereco, "Rua  ");
             Assert.AreEqual(cliente.Bairro, "Jardim");
-            Assert.AreEqual(cliente.Documento, "123");
+            Assert.AreEqual(cliente.Documento, " ");
             Assert.AreEqual(cliente.Cidade.Nome, "Birigui"); 
         }
 
@@ -38,7 +38,7 @@ namespace IFSPStory.Test
         public void TestUsuario()
         {
             DateTime dataCadastro = new DateTime(2024, 10, 28);
-            DateTime dataLogin = new DateTime(2024, 10, 27);//ano,mês, dia
+            DateTime dataLogin = new DateTime(2024, 10, 27);//ano,mÃªs, dia
             Usuario usuario = new Usuario(1, "Mariana", "456", "marisolazarini", "m.lazarini@aluno.ifsp.edu.br", dataCadastro, dataLogin, true); //true = Ativo caso seja Inativo seria false
 
             Assert.AreEqual(usuario.Nome, "Mariana");
@@ -54,11 +54,11 @@ namespace IFSPStory.Test
             DateTime data = new DateTime(2024, 10, 28);
 
             DateTime dataCadastro = new DateTime(2024, 10, 28);
-            DateTime dataLogin = new DateTime(2024, 10, 27);//ano,mês, dia
+            DateTime dataLogin = new DateTime(2024, 10, 27);//ano,mÃªs, dia
             Usuario usuario = new Usuario(1, "Mariana", "456", "marisolazarini", "m.lazarini@aluno.ifsp.edu.br", dataCadastro, dataLogin, true); //true = Ativo caso seja Inativo seria false
 
             Cidade cidade = new Cidade(1, "Birigui", "SP");
-            Cliente cliente = new Cliente(1, "Angela", "Rua Islândia 327", "123", "Jardim", cidade);
+            Cliente cliente = new Cliente(1, "Angela", "Rua IslÃ¢ndia 327", "123", "Jardim", cidade);
 
             Grupo grupo = new Grupo(1, "Varejo");
             Produto produto = new Produto(1, "Notebook", 5000.00f, 2, new DateTime(2024, 1, 1), "5", grupo);
